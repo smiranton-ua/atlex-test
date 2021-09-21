@@ -1,0 +1,2113 @@
+{
+  "+1aIk/": {
+    "defaultMessage": "Rows: {size}"
+  },
+  "+9QVse": {
+    "defaultMessage": "Are you sure you want to pull out {count} outbound items?"
+  },
+  "+CwN9C": {
+    "defaultMessage": "System"
+  },
+  "+EIson": {
+    "defaultMessage": "Add payment method"
+  },
+  "+F9mF+": {
+    "defaultMessage": "Inbound tracking #"
+  },
+  "+JsDiH": {
+    "defaultMessage": "Ship to"
+  },
+  "+M7c8I": {
+    "defaultMessage": "Save notifications"
+  },
+  "+U6ozc": {
+    "defaultMessage": "Type"
+  },
+  "+Z+HSM": {
+    "defaultMessage": "Shipment was successfully updated"
+  },
+  "+ZsRP2": {
+    "defaultMessage": "Remove inbound shipment search"
+  },
+  "+dUL8x": {
+    "defaultMessage": "List billing history search"
+  },
+  "+lWQIJ": {
+    "defaultMessage": "Marketplace"
+  },
+  "+mi+k3": {
+    "defaultMessage": "Invoice method successfully closed"
+  },
+  "+sOpdK": {
+    "defaultMessage": "Shipment details"
+  },
+  "/0TOL5": {
+    "defaultMessage": "Amount"
+  },
+  "/56zeu": {
+    "defaultMessage": "Tracking or Shipping #"
+  },
+  "/68NzW": {
+    "defaultMessage": "List business search"
+  },
+  "/8l4lb": {
+    "defaultMessage": "Set pickup date"
+  },
+  "/INqSc": {
+    "defaultMessage": "Update date"
+  },
+  "/ZzZ7J": {
+    "defaultMessage": "Pallet"
+  },
+  "/d/Y8+": {
+    "defaultMessage": "Most of the online stores located in US do not ship goods overseas or they do it at a much higher shipping rate. Also, not all stores accept payments if cards are issued by foreign banks. Our service can help you order goods from any store located in US. It can be shipped to Uzbekistan and Kazakhstan with fast and reliable delivery to your doorstep. If your payment type is accepted by the store, you are click away form purchasing goods such as: electronics, clothes, shoes, toys and much more."
+  },
+  "/l+E14": {
+    "defaultMessage": "Existing shipment"
+  },
+  "/oRTNb": {
+    "defaultMessage": "Payment date"
+  },
+  "/ret/p": {
+    "defaultMessage": "Edit address book"
+  },
+  "/wQnbz": {
+    "defaultMessage": "Apparel, Shoes and Accessories"
+  },
+  "/wa1Sd": {
+    "defaultMessage": "Shared with"
+  },
+  "0VZ16F": {
+    "defaultMessage": "Set filter"
+  },
+  "0WJNP/": {
+    "defaultMessage": "Return"
+  },
+  "0a+OO3": {
+    "defaultMessage": "Edit address book search"
+  },
+  "0zzSmy": {
+    "defaultMessage": "Card holder name"
+  },
+  "1+iD/+": {
+    "defaultMessage": "Return shipment"
+  },
+  "17RMMf": {
+    "defaultMessage": "Sporting goods"
+  },
+  "1QJrST": {
+    "defaultMessage": "Address status"
+  },
+  "1ZgrhW": {
+    "defaultMessage": "Role"
+  },
+  "1iEPTM": {
+    "defaultMessage": "General"
+  },
+  "2AWM+i": {
+    "defaultMessage": "Ops, something went wrong..."
+  },
+  "2CtPQ/": {
+    "defaultMessage": "Contact phone"
+  },
+  "2SmD/r": {
+    "defaultMessage": "Edit shipping search"
+  },
+  "2WxwYK": {
+    "defaultMessage": "Inbound shipment #{masterTrackingNumber}"
+  },
+  "2YgLVn": {
+    "defaultMessage": "{title}"
+  },
+  "2ZYaqV": {
+    "defaultMessage": "Additional packing"
+  },
+  "2a6uAL": {
+    "defaultMessage": "User status"
+  },
+  "2fX030": {
+    "defaultMessage": "Country or Terrirtory"
+  },
+  "2mEcKC": {
+    "defaultMessage": "Cancel inbound shipment"
+  },
+  "2rU0ln": {
+    "defaultMessage": "Payment method was successfully set as default"
+  },
+  "2zAY1d": {
+    "defaultMessage": "FAQs"
+  },
+  "30ShQ3": {
+    "defaultMessage": "Edit custom declaration"
+  },
+  "3I3rsp": {
+    "defaultMessage": "Pull out the item{s}"
+  },
+  "3KMBXh": {
+    "defaultMessage": "Address was successfully deleted"
+  },
+  "3NnU6k": {
+    "defaultMessage": "Deactivate inbound shipment"
+  },
+  "3a5wL8": {
+    "defaultMessage": "Active"
+  },
+  "3iAtgw": {
+    "defaultMessage": "Delete shipment item search"
+  },
+  "3mFJ2I": {
+    "defaultMessage": "Inbound tracking history"
+  },
+  "3q2Vyb": {
+    "defaultMessage": "Items number"
+  },
+  "3rBXWX": {
+    "defaultMessage": "Atlex service"
+  },
+  "3wsVWF": {
+    "defaultMessage": "Cancelled"
+  },
+  "3y2CEx": {
+    "defaultMessage": "Help & Contact"
+  },
+  "3yY1p8": {
+    "defaultMessage": "Delete role"
+  },
+  "460C4x": {
+    "defaultMessage": "Cookies"
+  },
+  "47FYwb": {
+    "defaultMessage": "Cancel"
+  },
+  "4LFhOT": {
+    "defaultMessage": "Clear details"
+  },
+  "4Lwqw3": {
+    "defaultMessage": "Are you sure you want to delete address?"
+  },
+  "4heUMB": {
+    "defaultMessage": "Shipment status"
+  },
+  "4k/VZt": {
+    "defaultMessage": "Custom declaration"
+  },
+  "58O3SF": {
+    "defaultMessage": "Login details"
+  },
+  "5DEyK5": {
+    "defaultMessage": "Extra services"
+  },
+  "5EWd0c": {
+    "defaultMessage": "Manage single product or entire package, like never before."
+  },
+  "5IP7AP": {
+    "defaultMessage": "Width"
+  },
+  "5Jp0gJ": {
+    "defaultMessage": "How can I pay for an order at ATLEX?"
+  },
+  "5KxKgr": {
+    "defaultMessage": "Confirm address"
+  },
+  "5Wwopw": {
+    "defaultMessage": "Pricing"
+  },
+  "5fZSBP": {
+    "defaultMessage": "Portal Map"
+  },
+  "5zZZ90": {
+    "defaultMessage": "Address book"
+  },
+  "64Hq/+": {
+    "defaultMessage": "Mark as read"
+  },
+  "64jywN": {
+    "defaultMessage": "Max gross weight 1000 kg."
+  },
+  "69pahW": {
+    "defaultMessage": "Each"
+  },
+  "6F8UYq": {
+    "defaultMessage": "Delete business search"
+  },
+  "6HJ+1Q": {
+    "defaultMessage": "Deactivate user"
+  },
+  "6IVnvB": {
+    "defaultMessage": "Billing history"
+  },
+  "6Tps09": {
+    "defaultMessage": "Inactive"
+  },
+  "6ZjA3r": {
+    "defaultMessage": "Create user search"
+  },
+  "6nIgUX": {
+    "defaultMessage": "Shipping cost"
+  },
+  "6yfOm1": {
+    "defaultMessage": "Get what you ordered. We provide you with pictures of every item so you know what you're getting."
+  },
+  "7/uNa/": {
+    "defaultMessage": "Bundle"
+  },
+  "74xz0X": {
+    "defaultMessage": "Delete address"
+  },
+  "77TUpL": {
+    "defaultMessage": "Save user"
+  },
+  "7J1g5e": {
+    "defaultMessage": "Fulfill shipment"
+  },
+  "7P7Tae": {
+    "defaultMessage": "Inbound type"
+  },
+  "7PhW5W": {
+    "defaultMessage": "Codes"
+  },
+  "7Y68bL": {
+    "defaultMessage": "Deactivate business"
+  },
+  "7qLB2p": {
+    "defaultMessage": "Maximum box size"
+  },
+  "7t3x1R": {
+    "defaultMessage": "Dispute invoice"
+  },
+  "82r9gb": {
+    "defaultMessage": "Shipment was successfully added"
+  },
+  "8HJxXG": {
+    "defaultMessage": "Sign up"
+  },
+  "8R6rVB": {
+    "defaultMessage": "Edit payment methods"
+  },
+  "8fMMFo": {
+    "defaultMessage": "Are you sure you want to set {name} search as default ?"
+  },
+  "8hlJ+I": {
+    "defaultMessage": "Save declaration"
+  },
+  "8uQpKG": {
+    "defaultMessage": "Zip or Postal code"
+  },
+  "8yYNxt": {
+    "defaultMessage": "Are you sure you want to activate {name} role?"
+  },
+  "9/8Pax": {
+    "defaultMessage": "Activate business"
+  },
+  "90NiL1": {
+    "defaultMessage": "It's delivered"
+  },
+  "95stPq": {
+    "defaultMessage": "Completed"
+  },
+  "99t6dQ": {
+    "defaultMessage": "Edit billing history search"
+  },
+  "9ElU9F": {
+    "defaultMessage": "Order 2 products or more and ship separately, even to different countires."
+  },
+  "9MTctO": {
+    "defaultMessage": "Edit shipment"
+  },
+  "9TacAX": {
+    "defaultMessage": "Max total weight"
+  },
+  "9Wepxm": {
+    "defaultMessage": "Lot details"
+  },
+  "9b6kag": {
+    "defaultMessage": "Easy returns"
+  },
+  "9j3hXO": {
+    "defaultMessage": "To"
+  },
+  "9k5qQl": {
+    "defaultMessage": "Payment methods"
+  },
+  "9s5m1D": {
+    "defaultMessage": "Custom declaration {count}"
+  },
+  "9tmtyI": {
+    "defaultMessage": "Assign inbound shipment owner"
+  },
+  "A0Ufsw": {
+    "defaultMessage": "List outbound shipment search"
+  },
+  "A5QJ+L": {
+    "defaultMessage": "Information Collection and Use"
+  },
+  "A7OUmL": {
+    "defaultMessage": "Items quantity"
+  },
+  "AC7TMk": {
+    "defaultMessage": "List address book search"
+  },
+  "AOYJl2": {
+    "defaultMessage": "Something went wrong, please try again later or contact support"
+  },
+  "Ab8mZL": {
+    "defaultMessage": "Ready to consolidate items of others"
+  },
+  "Ablppi": {
+    "defaultMessage": "Dimetional weight"
+  },
+  "Ai+yJg": {
+    "defaultMessage": "Activate role"
+  },
+  "AoHRBG": {
+    "defaultMessage": "Custom search"
+  },
+  "AoiQZb": {
+    "defaultMessage": "Delivery department:"
+  },
+  "B/3oe4": {
+    "defaultMessage": "My Atlex"
+  },
+  "B1a4So": {
+    "defaultMessage": "Detailed product photo"
+  },
+  "BACCkG": {
+    "defaultMessage": "Length"
+  },
+  "BKNdtj": {
+    "defaultMessage": "Pickup date"
+  },
+  "BKwKO2": {
+    "defaultMessage": "Account owner"
+  },
+  "BLt/Pm": {
+    "defaultMessage": "Searches per page:"
+  },
+  "BQv0f4": {
+    "defaultMessage": "Proident consequat non veniam nulla duis cupidatat non. Non tempor sunt ad magna ullamco ad cupidatat do pariatur. Lorem deserunt magna anim cupidatat Lorem non. Ex sit proident aliqua adipisicing nulla incididunt non. Sit eiusmod occaecat nostrud amet elit aliquip aliquip voluptate ipsum elit ullamco adipisicing in eu. Mollit commodo laborum et cillum non qui occaecat ullamco elit culpa proident cillum."
+  },
+  "BYl0E0": {
+    "defaultMessage": "Crate shipment item search"
+  },
+  "BaIwdV": {
+    "defaultMessage": "Street"
+  },
+  "BgehDW": {
+    "defaultMessage": "{baseTitle} #{declarationId}"
+  },
+  "Billing-history": {
+  },
+  "BmO+dx": {
+    "defaultMessage": "Date arrived"
+  },
+  "Bs3//8": {
+    "defaultMessage": "Address was set as default"
+  },
+  "Businesses": {
+  },
+  "C+TA24": {
+    "defaultMessage": "Existing search"
+  },
+  "C3naf2": {
+    "defaultMessage": "List shipping search"
+  },
+  "C7kc1E": {
+    "defaultMessage": "Enter dimensions"
+  },
+  "CEQo2w": {
+    "defaultMessage": "My preferences"
+  },
+  "CICBj0": {
+    "defaultMessage": "Expiration date"
+  },
+  "CS5nMv": {
+    "defaultMessage": "Create date"
+  },
+  "CV423S": {
+    "defaultMessage": "How long can an order be stored in the US warehouse?"
+  },
+  "CYE44L": {
+    "defaultMessage": "Outbound items {count}"
+  },
+  "Cdu1CC": {
+    "defaultMessage": "Mollit quis exercitation enim occaecat aute non sunt. Qui exercitation ad tempor incididunt nisi proident amet dolor. Occaecat ut nulla elit id."
+  },
+  "Change password": {
+    "defaultMessage": "Change password"
+  },
+  "Cmhj2Z": {
+    "defaultMessage": "Calculate your shipping cost"
+  },
+  "CxSnzS": {
+    "defaultMessage": "MasterBox"
+  },
+  "D0tMhW": {
+    "defaultMessage": "Businesses"
+  },
+  "D6uiy3": {
+    "defaultMessage": "Inbound update date"
+  },
+  "DR+23P": {
+    "defaultMessage": "Contact email"
+  },
+  "DcY8fl": {
+    "defaultMessage": "Updated date"
+  },
+  "DiGGdF": {
+    "defaultMessage": "Address location"
+  },
+  "E0MmOG": {
+    "defaultMessage": "You shop, We'll take of the rest"
+  },
+  "EDvKvd": {
+    "defaultMessage": "Address confirmation"
+  },
+  "EY9qRL": {
+    "defaultMessage": "Please try again or contact administrator."
+  },
+  "Efxihi": {
+    "defaultMessage": "Outbound status"
+  },
+  "Et3vz2": {
+    "defaultMessage": "Incompleted"
+  },
+  "EwxRov": {
+    "defaultMessage": "🇰🇿 Kazakhstan"
+  },
+  "EyKG/E": {
+    "defaultMessage": "Show address details"
+  },
+  "F/REeu": {
+    "defaultMessage": "User profile"
+  },
+  "F7v00g": {
+    "defaultMessage": "Recipient full name"
+  },
+  "FDZNjC": {
+    "defaultMessage": "Edit outbound item"
+  },
+  "FEB4C2": {
+    "defaultMessage": "Create business search"
+  },
+  "FEMIKe": {
+    "defaultMessage": "Flexible package and product management"
+  },
+  "FGSHB8": {
+    "defaultMessage": "You don`t have any users yet created users will appear in the list"
+  },
+  "FIaSeO": {
+    "defaultMessage": "Set filter on the client"
+  },
+  "FQkYdO": {
+    "defaultMessage": "List inbound shipment"
+  },
+  "FaXNEA": {
+    "defaultMessage": "Are you sure you want to fulfill the outbound shipment {shipmentNumber}?"
+  },
+  "Fd6Xw8": {
+    "defaultMessage": "Edit inbound shipment"
+  },
+  "FgFWCI": {
+    "defaultMessage": "Advanced search"
+  },
+  "FhIilU": {
+    "defaultMessage": "Deactivate address book"
+  },
+  "Fl0JVB": {
+    "defaultMessage": "Close invoice"
+  },
+  "Fq4LcM": {
+    "defaultMessage": "Why Atlex"
+  },
+  "Fzp6G0": {
+    "defaultMessage": "You don`t have any roles yet created roles will appear in the list"
+  },
+  "GGlmi+": {
+    "defaultMessage": "kg/cm"
+  },
+  "GKyFlE": {
+    "defaultMessage": "Shipping and handling"
+  },
+  "GNDsXV": {
+    "defaultMessage": "Express"
+  },
+  "GUDBNe": {
+    "defaultMessage": "You don`t have any {entityTitle} yet, created {entityTitle} will appear in the list."
+  },
+  "GYpPS1": {
+    "defaultMessage": "Tare weight"
+  },
+  "GZ0Fb4": {
+    "defaultMessage": "Send notifications about status update:"
+  },
+  "GaOR+y": {
+    "defaultMessage": "Outbound shipment"
+  },
+  "Gc/whn": {
+    "defaultMessage": "Business owner"
+  },
+  "Gj5aGw": {
+    "defaultMessage": "Clear order by"
+  },
+  "GjrlL9": {
+    "defaultMessage": "General settings"
+  },
+  "GmbHAA": {
+    "defaultMessage": "Ready to lot"
+  },
+  "GnhXim": {
+    "defaultMessage": "My notifications"
+  },
+  "GpLsPj": {
+    "defaultMessage": "Baby"
+  },
+  "Gt9iz1": {
+    "defaultMessage": "Country or Territory"
+  },
+  "H/km1D": {
+    "defaultMessage": "Create billing history search"
+  },
+  "H3eDAS": {
+    "defaultMessage": "Statistics"
+  },
+  "HK3ph8": {
+    "defaultMessage": "How it works"
+  },
+  "HLGirJ": {
+    "defaultMessage": "🇺🇿 Uzbekistan"
+  },
+  "HP1ycT": {
+    "defaultMessage": "Does ATLEX repackage / combine packages?"
+  },
+  "HT+qcF": {
+    "defaultMessage": "Payment method was successfully locked"
+  },
+  "HU8uov": {
+    "defaultMessage": "Consolidating"
+  },
+  "HkTa1T": {
+    "defaultMessage": "New shipment"
+  },
+  "HnSACK": {
+    "defaultMessage": "Officia culpa sit aute id ex. Aute sunt Lorem cupidatat elit nostrud anim. Exercitation non laboris laboris ut sint exercitation amet ex."
+  },
+  "Home": {
+    "defaultMessage": "Home"
+  },
+  "HqRNN8": {
+    "defaultMessage": "Support"
+  },
+  "HwEc/2": {
+    "defaultMessage": "cg."
+  },
+  "HwfsUi": {
+    "defaultMessage": "Eiusmod irure dolor veniam anim anim eiusmod. Proident velit sint in laboris ad aliqua velit laborum. Magna dolor est deserunt non magna sint aute elit excepteur ad mollit cillum cupidatat reprehenderit. Amet excepteur reprehenderit pariatur officia."
+  },
+  "I5x0na": {
+    "defaultMessage": "State (optional)"
+  },
+  "IBOJKZ": {
+    "defaultMessage": "Inbound history"
+  },
+  "ILoFt6": {
+    "defaultMessage": "Address status changed to Inactive"
+  },
+  "IYC/BP": {
+    "defaultMessage": "Can I order goods from online store located in US and have that store ship directly to me to Uzbekistan or Kazakhstan?"
+  },
+  "IdIMhs": {
+    "defaultMessage": "Expess"
+  },
+  "IfTNZB": {
+    "defaultMessage": "{username}"
+  },
+  "IoVg6g": {
+    "defaultMessage": "Toys and Games"
+  },
+  "Iq9hlz": {
+    "defaultMessage": "Notifications settings"
+  },
+  "It0qSm": {
+    "defaultMessage": "Select address"
+  },
+  "IxwrZg": {
+    "defaultMessage": "Nett weight"
+  },
+  "J54TJJ": {
+    "defaultMessage": "Marketplace and Auctions"
+  },
+  "J6BibP": {
+    "defaultMessage": "Create address book"
+  },
+  "JCTX0Z": {
+    "defaultMessage": "Activate user"
+  },
+  "JH2EfS": {
+    "defaultMessage": "Pets"
+  },
+  "JHJJAH": {
+    "defaultMessage": "Save as draft"
+  },
+  "JQ1YL0": {
+    "defaultMessage": "Tracking or outbound shipment #"
+  },
+  "JX0502": {
+    "defaultMessage": "Client"
+  },
+  "JXB/G1": {
+    "defaultMessage": "Are you sure you want to activate {name}?"
+  },
+  "JlX9Hj": {
+    "defaultMessage": "Business name"
+  },
+  "Jysfu3": {
+    "defaultMessage": "Add inbound shipment"
+  },
+  "K3mQRt": {
+    "defaultMessage": "Set status on deleted"
+  },
+  "K3r6DQ": {
+    "defaultMessage": "Delete"
+  },
+  "KH5r65": {
+    "defaultMessage": "Delete payment method"
+  },
+  "KK02zO": {
+    "defaultMessage": "Commodo excepteur qui exercitation tempor voluptate ullamco consectetur minim voluptate quis elit ex. Irure aliquip ullamco tempor minim sunt et est nulla. Nulla ullamco veniam sit anim. Commodo adipisicing amet adipisicing magna ullamco ut exercitation. Sint ea ad aliquip cillum labore et consectetur in labore pariatur esse magna ad quis. Qui dolor ea ex aute fugiat duis occaecat."
+  },
+  "KN7zKn": {
+    "defaultMessage": "Error"
+  },
+  "KQvWvD": {
+    "defaultMessage": "Deleted"
+  },
+  "Kp5ZJD": {
+    "defaultMessage": "Automotive"
+  },
+  "KpN3WY": {
+    "defaultMessage": "Case"
+  },
+  "KxgRlo": {
+    "defaultMessage": "Role name"
+  },
+  "L/CE8y": {
+    "defaultMessage": "Create user"
+  },
+  "L0eo7N": {
+    "defaultMessage": "Search has been updated successfully!"
+  },
+  "L2ITCx": {
+    "defaultMessage": "Economy"
+  },
+  "L4nXIc": {
+    "defaultMessage": "Change password"
+  },
+  "LAd72A": {
+    "defaultMessage": "Shipping date"
+  },
+  "LEYjvV": {
+    "defaultMessage": "Measurement settings"
+  },
+  "LHmyaM": {
+    "defaultMessage": "Are you sure you want to delete {name} role?"
+  },
+  "LPH45m": {
+    "defaultMessage": "Lot #"
+  },
+  "LPkbrk": {
+    "defaultMessage": "Delivery days"
+  },
+  "LQ2A8p": {
+    "defaultMessage": "Product recognition"
+  },
+  "LgbKvU": {
+    "defaultMessage": "Comment"
+  },
+  "LxanTq": {
+    "defaultMessage": "Calculate"
+  },
+  "MB3WNt": {
+    "defaultMessage": "Add role"
+  },
+  "MUNiQe": {
+    "defaultMessage": "km."
+  },
+  "MW77hF": {
+    "defaultMessage": "Home and Garden"
+  },
+  "MessAc": {
+    "defaultMessage": "New lot"
+  },
+  "MgrP9V": {
+    "defaultMessage": "{volume}3."
+  },
+  "MkaOXS": {
+    "defaultMessage": "Create inbound shipment search"
+  },
+  "MlDBJU": {
+    "defaultMessage": "Are you sure you want to dispute invoice?"
+  },
+  "NAidKb": {
+    "defaultMessage": "Notifications"
+  },
+  "NBGta8": {
+    "defaultMessage": "Save shipment as"
+  },
+  "NCAtHA": {
+    "defaultMessage": "User was successfully added"
+  },
+  "NGR6CO": {
+    "defaultMessage": "Set status on inactive"
+  },
+  "NIxKhR": {
+    "defaultMessage": "Set category"
+  },
+  "NIySc6": {
+    "defaultMessage": "Let's start"
+  },
+  "NOQOpk": {
+    "defaultMessage": "Commodo officia fugiat consectetur adipisicing id exercitation proident. Esse incididunt commodo aliquip labore ea ea veniam anim enim ut qui. Minim occaecat eiusmod cupidatat do deserunt duis nisi adipisicing Lorem."
+  },
+  "NOYsZZ": {
+    "defaultMessage": "Outbound shipments"
+  },
+  "NZyhSX": {
+    "defaultMessage": "News"
+  },
+  "NewHfL": {
+    "defaultMessage": "Create shipping search"
+  },
+  "NgPq7p": {
+    "defaultMessage": "Shipping & handling"
+  },
+  "NkU+5t": {
+    "defaultMessage": "Are you sure you want to pull out the outbound shipment #{shipmentNumber} from the lot?"
+  },
+  "NzZHOL": {
+    "defaultMessage": "Account ID"
+  },
+  "O+2PXw": {
+    "defaultMessage": "What if the store does not accept my card?"
+  },
+  "O/9W/i": {
+    "defaultMessage": "Creadit card number is invalid"
+  },
+  "O95R3Z": {
+    "defaultMessage": "Phone"
+  },
+  "OD/SoW": {
+    "defaultMessage": "Create role search"
+  },
+  "OIYNS3": {
+    "defaultMessage": "... Loading"
+  },
+  "OMT+M5": {
+    "defaultMessage": "Parcel"
+  },
+  "OQDUOB": {
+    "defaultMessage": "Contact Email"
+  },
+  "OUW8lb": {
+    "defaultMessage": "Are you sure you want to activate address?"
+  },
+  "OhgOkH": {
+    "defaultMessage": "Clear filter"
+  },
+  "Oo+0sJ": {
+    "defaultMessage": "..."
+  },
+  "OsZJp3": {
+    "defaultMessage": "Number 68"
+  },
+  "OtxdJx": {
+    "defaultMessage": "Show only empty"
+  },
+  "Outbound items": {
+  },
+  "Outbound shipments": {
+  },
+  "OwtpeC": {
+    "defaultMessage": "The more you shop the easier it gets, soon your customs paperwork will be prefilled."
+  },
+  "Oxhl1W": {
+    "defaultMessage": "Business history"
+  },
+  "P7PLVj": {
+    "defaultMessage": "Date"
+  },
+  "P83qtw": {
+    "defaultMessage": "Delete business"
+  },
+  "PBldEs": {
+    "defaultMessage": "{height} x {width} x {length}."
+  },
+  "PHPKHB": {
+    "defaultMessage": "Delete shipping search"
+  },
+  "PRlD0A": {
+    "defaultMessage": "Shipping"
+  },
+  "PWAInK": {
+    "defaultMessage": "You don`t have any inbound shipments yet created inbound shipments will appear in the list"
+  },
+  "PYKz5r": {
+    "defaultMessage": "Outbound items"
+  },
+  "PaeA/v": {
+    "defaultMessage": "Save support"
+  },
+  "Py189G": {
+    "defaultMessage": "Security"
+  },
+  "PzBnYB": {
+    "defaultMessage": "Save and reopen"
+  },
+  "Q8Qw5B": {
+    "defaultMessage": "Description"
+  },
+  "QA1wrZ": {
+    "defaultMessage": "Frequently Asked Questions"
+  },
+  "QVe2hP": {
+    "defaultMessage": "Manage searches"
+  },
+  "QjNitR": {
+    "defaultMessage": "Lot create date"
+  },
+  "QsuHS5": {
+    "defaultMessage": "List user search"
+  },
+  "QzgcC2": {
+    "defaultMessage": "Save item"
+  },
+  "R8ogpw": {
+    "defaultMessage": "Card data"
+  },
+  "RO6K7K": {
+    "defaultMessage": "Delete role search"
+  },
+  "RSTO+s": {
+    "defaultMessage": "Role was successfully updated"
+  },
+  "Rb+F10": {
+    "defaultMessage": "Ship to address"
+  },
+  "RkxKnL": {
+    "defaultMessage": "Suite/Room, Floor"
+  },
+  "Rqq5Zs": {
+    "defaultMessage": "{weight}."
+  },
+  "Rwrf+x": {
+    "defaultMessage": "From address book"
+  },
+  "S+0VlA": {
+    "defaultMessage": "We can`t find any Provider to cover the package, please contact the support or select other shipment class"
+  },
+  "S4HYpj": {
+    "defaultMessage": "Lock payment method"
+  },
+  "S7lVAn": {
+    "defaultMessage": "No businesses available"
+  },
+  "STGKH9": {
+    "defaultMessage": "Creator"
+  },
+  "SX4gqQ": {
+    "defaultMessage": "Original value"
+  },
+  "SaFSRR": {
+    "defaultMessage": "Deactivate address"
+  },
+  "Sjo1P4": {
+    "defaultMessage": "Custom"
+  },
+  "Ss+YZP": {
+    "defaultMessage": "Role was successfully deactivated."
+  },
+  "T0d6xD": {
+    "defaultMessage": "Role was successfully deleted."
+  },
+  "T186GJ": {
+    "defaultMessage": "Submit shipment"
+  },
+  "T7Ry38": {
+    "defaultMessage": "Message"
+  },
+  "TCx4hN": {
+    "defaultMessage": "Delete user"
+  },
+  "TE4fIS": {
+    "defaultMessage": "City"
+  },
+  "TQ+DN3": {
+    "defaultMessage": "Tracking or inbound shipment #"
+  },
+  "TZ9Vu4": {
+    "defaultMessage": "Edit search name"
+  },
+  "TaoavT": {
+    "defaultMessage": "Setup successfully saved"
+  },
+  "Tbl51m": {
+    "defaultMessage": "My goods are going to be exported but the store is still charging me Salex Tax. How can I avoid paying Salex Tax?"
+  },
+  "TcTt4g": {
+    "defaultMessage": "Browse US stores, find products, and let us know when they're on their way."
+  },
+  "ThZMaA": {
+    "defaultMessage": "Dimensions"
+  },
+  "Tnm5K2": {
+    "defaultMessage": "Payment method was successfully deleted"
+  },
+  "U4lmur": {
+    "defaultMessage": "Activate address book"
+  },
+  "U78NhE": {
+    "defaultMessage": "Complete"
+  },
+  "U7fZs8": {
+    "defaultMessage": "How long does it take?"
+  },
+  "UCpRkt": {
+    "defaultMessage": "Inbound shippings settings"
+  },
+  "UHQWi7": {
+    "defaultMessage": "Activate inbound shipment"
+  },
+  "UWnfOM": {
+    "defaultMessage": "Norms of duty-free import of goods"
+  },
+  "UWsCRw": {
+    "defaultMessage": "Select Address"
+  },
+  "UYSGNB": {
+    "defaultMessage": "Default unit of measure:"
+  },
+  "UfxzTE": {
+    "defaultMessage": "Items in consolidation"
+  },
+  "Uy35P7": {
+    "defaultMessage": "Role history"
+  },
+  "V+I6rS": {
+    "defaultMessage": "Edit role search"
+  },
+  "V00CoF": {
+    "defaultMessage": "Your account was created."
+  },
+  "V1DuIn": {
+    "defaultMessage": "Existing lot"
+  },
+  "V9dPuN": {
+    "defaultMessage": "No results match your search criteria"
+  },
+  "VCsn0O": {
+    "defaultMessage": "Pick up pending"
+  },
+  "VH3Xt/": {
+    "defaultMessage": "Bucket"
+  },
+  "VOndN0": {
+    "defaultMessage": "Choose Unit of Measure:"
+  },
+  "VUGXX/": {
+    "defaultMessage": "Default class:"
+  },
+  "VWsJac": {
+    "defaultMessage": "Delete inbound shipment"
+  },
+  "VYn2g8": {
+    "defaultMessage": "Street address"
+  },
+  "Vckbm9": {
+    "defaultMessage": "Edit user search"
+  },
+  "Vja3d+": {
+    "defaultMessage": "Search name"
+  },
+  "VtfQNk": {
+    "defaultMessage": "Notifications channels:"
+  },
+  "VugDFe": {
+    "defaultMessage": "Set search as default"
+  },
+  "W/6tSY": {
+    "defaultMessage": "Arrived"
+  },
+  "W/ZfyL": {
+    "defaultMessage": "Delete search"
+  },
+  "W/yAOF": {
+    "defaultMessage": "Recipient documen"
+  },
+  "W6nwjo": {
+    "defaultMessage": "Draft"
+  },
+  "WFRQBd": {
+    "defaultMessage": "Setup notifications"
+  },
+  "WSCjCg": {
+    "defaultMessage": "No items found"
+  },
+  "Wk4Pn7": {
+    "defaultMessage": "What guarantees does ATLEX provide?"
+  },
+  "WlJ2GB": {
+    "defaultMessage": "Date event"
+  },
+  "WnQ/AZ": {
+    "defaultMessage": "Contact us"
+  },
+  "X7+QFF": {
+    "defaultMessage": "Testimonials"
+  },
+  "X9pTWT": {
+    "defaultMessage": "Inbound shipments"
+  },
+  "XKbGoL": {
+    "defaultMessage": "cm."
+  },
+  "XPruqs": {
+    "defaultMessage": "Order"
+  },
+  "XWxB8r": {
+    "defaultMessage": "Create inbound shipment"
+  },
+  "XZtQ8o": {
+    "defaultMessage": "Account Id"
+  },
+  "XfKNCg": {
+    "defaultMessage": "Sharing"
+  },
+  "Xkhsz5": {
+    "defaultMessage": "Unidentified"
+  },
+  "Xl86UW": {
+    "defaultMessage": "Identity document"
+  },
+  "XoZKzA": {
+    "defaultMessage": "Inbound status"
+  },
+  "XqiWVr": {
+    "defaultMessage": "Assign shipment"
+  },
+  "Xu6u3I": {
+    "defaultMessage": "Activate payment methods"
+  },
+  "Xx5oTa": {
+    "defaultMessage": "Select another address"
+  },
+  "Y/lDg0": {
+    "defaultMessage": "Gaylord container"
+  },
+  "Y5Gy4R": {
+    "defaultMessage": "Item #"
+  },
+  "Y6cXqV": {
+    "defaultMessage": "Save address"
+  },
+  "YC+y7V": {
+    "defaultMessage": "Business details"
+  },
+  "YDMrKK": {
+    "defaultMessage": "Users"
+  },
+  "YIqtY7": {
+    "defaultMessage": "You haven't typed all the data required to submit inbound shipment. Do you want to save it as draft?"
+  },
+  "YK56zW": {
+    "defaultMessage": "New search"
+  },
+  "YOIxaf": {
+    "defaultMessage": "Aute sint laborum proident ut excepteur ipsum duis. Veniam qui excepteur tempor ullamco duis non elit. Lorem sit nulla officia et ad labore incididunt qui eu officia ipsum id cupidatat. Est ex velit laborum enim ex irure reprehenderit ea qui elit. Anim anim consectetur minim ea elit sunt do pariatur sit nisi quis qui. Amet et mollit nostrud officia eu sunt voluptate non."
+  },
+  "YaCgBF": {
+    "defaultMessage": "Updated by"
+  },
+  "Yjk5Ow": {
+    "defaultMessage": "Date created"
+  },
+  "YkyNuj": {
+    "defaultMessage": "Value for monitoring the total amount of a custom declaration"
+  },
+  "YnI6nO": {
+    "defaultMessage": "Let’s start"
+  },
+  "YufppV": {
+    "defaultMessage": "Split your packages"
+  },
+  "Yy0s2f": {
+    "defaultMessage": "Set status on active"
+  },
+  "Z2ZL8y": {
+    "defaultMessage": "Add support"
+  },
+  "Z9pigE": {
+    "defaultMessage": "Check address"
+  },
+  "ZEwiub": {
+    "defaultMessage": "Pull out"
+  },
+  "ZNQH8L": {
+    "defaultMessage": "List business"
+  },
+  "ZSelnx": {
+    "defaultMessage": "Get rate"
+  },
+  "ZhYPkn": {
+    "defaultMessage": "Pickup by date"
+  },
+  "ZkHWOa": {
+    "defaultMessage": "Lot type"
+  },
+  "ZmDQfu": {
+    "defaultMessage": "Notification status"
+  },
+  "Zr9TU6": {
+    "defaultMessage": "Portal map"
+  },
+  "ZuQrBH": {
+    "defaultMessage": "We’ll send you a confirmation email to verify that the address is correct."
+  },
+  "ZvU0oH": {
+    "defaultMessage": "Delete billing history search"
+  },
+  "Zx0bRs": {
+    "defaultMessage": "Settings service"
+  },
+  "a/9f2o": {
+    "defaultMessage": "Checkout pending"
+  },
+  "a01+f3": {
+    "defaultMessage": "Payment method successfully created"
+  },
+  "a0a/tt": {
+    "defaultMessage": "User information"
+  },
+  "a12hjV": {
+    "defaultMessage": "UoM"
+  },
+  "a8VtPz": {
+    "defaultMessage": "Outbound tracking #"
+  },
+  "aH4De2": {
+    "defaultMessage": "Source"
+  },
+  "aIaS1/": {
+    "defaultMessage": "Set address as default"
+  },
+  "aXEvZ3": {
+    "defaultMessage": "Edit business"
+  },
+  "account.changePassword.Cancel": {
+    "defaultMessage": "Cancel"
+  },
+  "account.changePassword.ConfirmPassword": {
+    "defaultMessage": "Confirm password"
+  },
+  "account.changePassword.NewPassword": {
+    "defaultMessage": "New password"
+  },
+  "account.changePassword.OldPassword": {
+    "defaultMessage": "Old password"
+  },
+  "account.changePassword.SaveNewPassword": {
+    "defaultMessage": "Save new password"
+  },
+  "account.changePassword.SuccessMessage": {
+    "defaultMessage": "Password successfully updated"
+  },
+  "account.myPreferences.AccountId": {
+    "defaultMessage": "Account ID"
+  },
+  "account.myPreferences.Cancel": {
+    "defaultMessage": "Cancel"
+  },
+  "account.myPreferences.City": {
+    "defaultMessage": "City"
+  },
+  "account.myPreferences.Comment": {
+    "defaultMessage": "Comment"
+  },
+  "account.myPreferences.ContactEmail": {
+    "defaultMessage": "Contact email"
+  },
+  "account.myPreferences.ContactPhone": {
+    "defaultMessage": "Contact phone"
+  },
+  "account.myPreferences.ContryOrTerritory": {
+    "defaultMessage": "Country or Territory"
+  },
+  "account.myPreferences.CreateDate": {
+    "defaultMessage": "Date created"
+  },
+  "account.myPreferences.FirstName": {
+    "defaultMessage": "First name"
+  },
+  "account.myPreferences.IdentityDocument": {
+    "defaultMessage": "Identity document"
+  },
+  "account.myPreferences.LastName": {
+    "defaultMessage": "Last name"
+  },
+  "account.myPreferences.MyAddress": {
+    "defaultMessage": "My address"
+  },
+  "account.myPreferences.MyInfo": {
+    "defaultMessage": "My info"
+  },
+  "account.myPreferences.MyProfile": {
+    "defaultMessage": "My profile"
+  },
+  "account.myPreferences.SavePreferences": {
+    "defaultMessage": "Save preferences"
+  },
+  "account.myPreferences.SecondName": {
+    "defaultMessage": "Second name"
+  },
+  "account.myPreferences.State": {
+    "defaultMessage": "State"
+  },
+  "account.myPreferences.Status": {
+    "defaultMessage": "Status"
+  },
+  "account.myPreferences.StreetAddress": {
+    "defaultMessage": "Street address"
+  },
+  "account.myPreferences.SuiteOrRoomOrFloor": {
+    "defaultMessage": "Suite/Room, Floor"
+  },
+  "account.myPreferences.UpdateDate": {
+    "defaultMessage": "Update date"
+  },
+  "account.myPreferences.ZipOrPostalCode": {
+    "defaultMessage": "ZIP or Postal code"
+  },
+  "account.myPreferences.hint": {
+    "defaultMessage": "..."
+  },
+  "aghhwL": {
+    "defaultMessage": "Where can I get my package?"
+  },
+  "ajGc5G": {
+    "defaultMessage": "ZIP or Postal Code"
+  },
+  "akfNNA": {
+    "defaultMessage": "Edit shipment item search"
+  },
+  "anA/1N": {
+    "defaultMessage": "Lot nett weight"
+  },
+  "axffsG": {
+    "defaultMessage": "Your packages delivered"
+  },
+  "b+a8Ab": {
+    "defaultMessage": "Test #1"
+  },
+  "b1yuz5": {
+    "defaultMessage": "Edit item"
+  },
+  "b4eTi5": {
+    "defaultMessage": "Activate payment method"
+  },
+  "bDc8G8": {
+    "defaultMessage": "Reset search"
+  },
+  "bK8x2v": {
+    "defaultMessage": "My address"
+  },
+  "bLcwMO": {
+    "defaultMessage": "Category item"
+  },
+  "bMcCpq": {
+    "defaultMessage": "dm."
+  },
+  "bN7UMz": {
+    "defaultMessage": "Are you sure you want to pull out {count} outbound shipments from the lot?"
+  },
+  "bZenNC": {
+    "defaultMessage": "Description (optional)"
+  },
+  "bpht9W": {
+    "defaultMessage": "m."
+  },
+  "bwYlvL": {
+    "defaultMessage": "Are you sure you want to deactivate {name} role?"
+  },
+  "c0D7vY": {
+    "defaultMessage": "Recipient document"
+  },
+  "c0b5XV": {
+    "defaultMessage": "Rate"
+  },
+  "c35gM5": {
+    "defaultMessage": "Roles"
+  },
+  "c84HgN": {
+    "defaultMessage": "Address history"
+  },
+  "cKaWkf": {
+    "defaultMessage": "Pickup by date: {date}"
+  },
+  "cQ/eR7": {
+    "defaultMessage": "Role information"
+  },
+  "cZ7zzg": {
+    "defaultMessage": "Shop wherever, whenever"
+  },
+  "ccXLVi": {
+    "defaultMessage": "Category"
+  },
+  "ckbNkv": {
+    "defaultMessage": "Are you sure you want to close invoice?"
+  },
+  "cxUbgE": {
+    "defaultMessage": "Log files"
+  },
+  "d1lbbH": {
+    "defaultMessage": "Label URL"
+  },
+  "d6fIMb": {
+    "defaultMessage": "Shipment type"
+  },
+  "d9UpOv": {
+    "defaultMessage": "Save payment method"
+  },
+  "dB23kW": {
+    "defaultMessage": "Number of lots"
+  },
+  "dDZyoc": {
+    "defaultMessage": "Save and fulfill"
+  },
+  "dM+p3/": {
+    "defaultMessage": "From"
+  },
+  "dY27YM": {
+    "defaultMessage": "User history"
+  },
+  "dYN+F9": {
+    "defaultMessage": "State or Province"
+  },
+  "dcUYHw": {
+    "defaultMessage": "Create address book search"
+  },
+  "dxIPC+": {
+    "defaultMessage": "We fulfill your shipment"
+  },
+  "dxig56": {
+    "defaultMessage": "Edit custom declaration #{declarationId}"
+  },
+  "e+qHz4": {
+    "defaultMessage": "Are you sure you want to deactivate {name}?"
+  },
+  "e0vKP/": {
+    "defaultMessage": "List user"
+  },
+  "e6Ph5+": {
+    "defaultMessage": "Address"
+  },
+  "e8bJJ0": {
+    "defaultMessage": "Declared value"
+  },
+  "e9r5yk": {
+    "defaultMessage": "kg."
+  },
+  "eC40WO": {
+    "defaultMessage": "Delete outbound shipment search"
+  },
+  "eKEL/g": {
+    "defaultMessage": "Pending"
+  },
+  "eeoAaH": {
+    "defaultMessage": "Create business"
+  },
+  "eh1VAK": {
+    "defaultMessage": "Are you sure you want to set address as default?"
+  },
+  "esrdTW": {
+    "defaultMessage": "Role was successfully activated."
+  },
+  "ex+q9+": {
+    "defaultMessage": "Edit address"
+  },
+  "f6tDuL": {
+    "defaultMessage": "Show role details"
+  },
+  "fMBg2e": {
+    "defaultMessage": "Save shipment"
+  },
+  "fMrnje": {
+    "defaultMessage": "Select shipment class"
+  },
+  "fYLfJj": {
+    "defaultMessage": "Standart"
+  },
+  "fYhmK/": {
+    "defaultMessage": "Remove shoebox"
+  },
+  "filwqD": {
+    "defaultMessage": "Read"
+  },
+  "frCWSs": {
+    "defaultMessage": "User rights"
+  },
+  "g7JAVJ": {
+    "defaultMessage": "Search was successfully set as default"
+  },
+  "g9347Q": {
+    "defaultMessage": "Pull out from lot"
+  },
+  "gFgDaz": {
+    "defaultMessage": "Items in return"
+  },
+  "gIeCGf": {
+    "defaultMessage": "Address was successfully activated"
+  },
+  "gQI3MN": {
+    "defaultMessage": "How can I place an order?"
+  },
+  "gSbzxZ": {
+    "defaultMessage": "Dolor proident dolor dolore voluptate culpa. Anim et sunt adipisicing adipisicing non velit officia. Irure enim et minim ullamco aliquip cillum eiusmod amet."
+  },
+  "gh3sJY": {
+    "defaultMessage": "What online stores can I shop at?"
+  },
+  "gjBiyj": {
+    "defaultMessage": "Loading..."
+  },
+  "gtrMG1": {
+    "defaultMessage": "Are you sure you want to mark notification as read?"
+  },
+  "h+Tn17": {
+    "defaultMessage": "Business history is empty"
+  },
+  "h0o77t": {
+    "defaultMessage": "Edit inbound shipment #{masterTrackingNumber}"
+  },
+  "h8G2pg": {
+    "defaultMessage": "Address entered is not found. Do you confirm that address is correct, and should be used as destination address?"
+  },
+  "hBzxls": {
+    "defaultMessage": "Edit role {role}"
+  },
+  "hJIOjU": {
+    "defaultMessage": "Show shipment details"
+  },
+  "hLBfaA": {
+    "defaultMessage": "Invoice method successfully disputed"
+  },
+  "hN3Ryd": {
+    "defaultMessage": "Added shipments"
+  },
+  "hSWlYV": {
+    "defaultMessage": "{baseTitle} #{shipmentNumber}"
+  },
+  "hZfvoM": {
+    "defaultMessage": "Save and submit"
+  },
+  "hcNUG+": {
+    "defaultMessage": "Role status"
+  },
+  "hcNqJ4": {
+    "defaultMessage": "Outbound tracking history"
+  },
+  "hmnIY5": {
+    "defaultMessage": "Card"
+  },
+  "hws7dV": {
+    "defaultMessage": "Role was successfully added"
+  },
+  "i/tRUV": {
+    "defaultMessage": "Your shipments are delivered when convenient for you."
+  },
+  "i4ukMD": {
+    "defaultMessage": "Edit notification search"
+  },
+  "i6pvwa": {
+    "defaultMessage": "Dimensional weight"
+  },
+  "i9EWIN": {
+    "defaultMessage": "Search with such name already exists"
+  },
+  "i9ukYc": {
+    "defaultMessage": "Item codes"
+  },
+  "iBzxfm": {
+    "defaultMessage": "Address activated successfully"
+  },
+  "iDSQNg": {
+    "defaultMessage": "Are you sure you want to cancel shipment #{masterTrackingNumber}?"
+  },
+  "iYc3Ld": {
+    "defaultMessage": "Payments"
+  },
+  "iZ9kHI": {
+    "defaultMessage": "Tracking #"
+  },
+  "ick5Ql": {
+    "defaultMessage": "See all available stores"
+  },
+  "ie3tfa": {
+    "defaultMessage": "Payment method was successfully activated"
+  },
+  "ieT9Qo": {
+    "defaultMessage": "List inbound shipment search"
+  },
+  "iezkmW": {
+    "defaultMessage": "Are you sure you want to pull out the outbound item #{id}?"
+  },
+  "ikYiZY": {
+    "defaultMessage": "Activate address"
+  },
+  "jGmDAw": {
+    "defaultMessage": "Pull out shipment"
+  },
+  "jRCcII": {
+    "defaultMessage": "Address was successfully deactivated"
+  },
+  "jVJd7m": {
+    "defaultMessage": "Delete address book"
+  },
+  "jWwXBT": {
+    "defaultMessage": "Shipment additional conditions"
+  },
+  "jabB4C": {
+    "defaultMessage": "Unread"
+  },
+  "jbBZ8u": {
+    "defaultMessage": "+ Add item"
+  },
+  "jkEz3Q": {
+    "defaultMessage": "Billing status"
+  },
+  "jpL4NC": {
+    "defaultMessage": "Warehouse"
+  },
+  "jrBjFf": {
+    "defaultMessage": "Outbound shipment status"
+  },
+  "jzlnso": {
+    "defaultMessage": "Sports and Activewear"
+  },
+  "k1GqiC": {
+    "defaultMessage": "Reopen shipment"
+  },
+  "kIJ/9Y": {
+    "defaultMessage": "Save role"
+  },
+  "kKfQq/": {
+    "defaultMessage": "Apply search"
+  },
+  "kQAf2d": {
+    "defaultMessage": "Select"
+  },
+  "kZ5xAn": {
+    "defaultMessage": "Inbound Shipment was Undefined"
+  },
+  "kfAI38": {
+    "defaultMessage": "Edit billing history"
+  },
+  "khgwiV": {
+    "defaultMessage": "Outbound update date"
+  },
+  "kkaVHV": {
+    "defaultMessage": "Return whole package or single product, it's your choice."
+  },
+  "klknry": {
+    "defaultMessage": "New address"
+  },
+  "ku+mDU": {
+    "defaultMessage": "State"
+  },
+  "kvGWm2": {
+    "defaultMessage": "Deactivate payment methods"
+  },
+  "kzlY5R": {
+    "defaultMessage": "Children"
+  },
+  "l+QSeT": {
+    "defaultMessage": "Edit role"
+  },
+  "l/YtW5": {
+    "defaultMessage": "lb/in"
+  },
+  "l8V97I": {
+    "defaultMessage": "dam."
+  },
+  "lD3+8a": {
+    "defaultMessage": "Pay"
+  },
+  "lIRn5P": {
+    "defaultMessage": "Save pickup date"
+  },
+  "lIuskb": {
+    "defaultMessage": "Are you sure you want to return the outbound shipment {shipmentNumber}?"
+  },
+  "lMwC2l": {
+    "defaultMessage": "Card holder"
+  },
+  "lS5n6T": {
+    "defaultMessage": "Calculate package"
+  },
+  "leutWw": {
+    "defaultMessage": "Select from address book"
+  },
+  "lg4sXu": {
+    "defaultMessage": "Choose destination point:"
+  },
+  "lwD66x": {
+    "defaultMessage": "E container"
+  },
+  "m1cKuo": {
+    "defaultMessage": "List notification search"
+  },
+  "m6c5U+": {
+    "defaultMessage": "User's rights were successfully updated"
+  },
+  "mBOidC": {
+    "defaultMessage": "Mg."
+  },
+  "mGGoZh": {
+    "defaultMessage": "Inbound Shipment was Arrived"
+  },
+  "mP0tHb": {
+    "defaultMessage": "Are you sure you want to reopen the outbound shipment {shipmentNumber}?"
+  },
+  "mV5Tmr": {
+    "defaultMessage": "No addresses available"
+  },
+  "mYLMUC": {
+    "defaultMessage": "Clear filter on the client"
+  },
+  "mlmv7+": {
+    "defaultMessage": "Ship address"
+  },
+  "nCsL6d": {
+    "defaultMessage": "Save as"
+  },
+  "nGBSZp": {
+    "defaultMessage": "Hello, {firstName} {lastName}"
+  },
+  "nLNKxU": {
+    "defaultMessage": "List role"
+  },
+  "nNm3M4": {
+    "defaultMessage": "Second name"
+  },
+  "nNrc1k": {
+    "defaultMessage": "Please use it to login."
+  },
+  "nTU1K9": {
+    "defaultMessage": "Consolidate"
+  },
+  "ndYP1J": {
+    "defaultMessage": "Electronics"
+  },
+  "nraEHM": {
+    "defaultMessage": "Class"
+  },
+  "nxN8DL": {
+    "defaultMessage": "Item code"
+  },
+  "oHoB1V": {
+    "defaultMessage": "Set pick up date"
+  },
+  "oK381n": {
+    "defaultMessage": "Business status"
+  },
+  "oMt4Bj": {
+    "defaultMessage": "Lot status"
+  },
+  "oSlB2q": {
+    "defaultMessage": "Role type"
+  },
+  "oU7hup": {
+    "defaultMessage": "Select tracking or shipping #"
+  },
+  "odXlk8": {
+    "defaultMessage": "Log in"
+  },
+  "oiivpw": {
+    "defaultMessage": "Edit business search"
+  },
+  "onHRRw": {
+    "defaultMessage": "Lot Additional conditions"
+  },
+  "ouauCN": {
+    "defaultMessage": "Search attribute"
+  },
+  "p4mBmL": {
+    "defaultMessage": "Created by"
+  },
+  "pFVdoq": {
+    "defaultMessage": "Add payment methods"
+  },
+  "pGxFq7": {
+    "defaultMessage": "Inbound shipment details"
+  },
+  "pONqz8": {
+    "defaultMessage": "First name"
+  },
+  "pVHf5d": {
+    "defaultMessage": "Select lot"
+  },
+  "pc+HFT": {
+    "defaultMessage": "Shipping Item was Returned"
+  },
+  "pcv3d/": {
+    "defaultMessage": "Item details"
+  },
+  "ppn572": {
+    "defaultMessage": "Pay later"
+  },
+  "pufgIZ": {
+    "defaultMessage": "ZIP or Postal code"
+  },
+  "q5quJn": {
+    "defaultMessage": "Outbound Shipment was Shipped"
+  },
+  "qCcwo3": {
+    "defaultMessage": "Links"
+  },
+  "qK9GW3": {
+    "defaultMessage": "Insurance"
+  },
+  "qLhAI8": {
+    "defaultMessage": "List payments"
+  },
+  "qVGRIE": {
+    "defaultMessage": "Quantity"
+  },
+  "qchYby": {
+    "defaultMessage": "Are you sure you want to activate {businessName}?"
+  },
+  "qedZeV": {
+    "defaultMessage": "Shipment class"
+  },
+  "qiNzeF": {
+    "defaultMessage": "Information we may collect"
+  },
+  "qiR7q/": {
+    "defaultMessage": "Are you sure you want to deactivate address?"
+  },
+  "qkh65Y": {
+    "defaultMessage": "CVV"
+  },
+  "qpMw3t": {
+    "defaultMessage": "Outbound shipment details"
+  },
+  "qq3zdC": {
+    "defaultMessage": "Create payment methods"
+  },
+  "qtqLQT": {
+    "defaultMessage": "Delete payment methods"
+  },
+  "qv7ied": {
+    "defaultMessage": "Registration"
+  },
+  "rBWHK5": {
+    "defaultMessage": "Outbound history"
+  },
+  "rF11XR": {
+    "defaultMessage": "Test off/on"
+  },
+  "rFNxLr": {
+    "defaultMessage": "Test #2"
+  },
+  "rJPzKr": {
+    "defaultMessage": "List billing history"
+  },
+  "raexxM": {
+    "defaultMessage": "Submitted"
+  },
+  "rf+2c6": {
+    "defaultMessage": "What is allowed to be exported/transported?"
+  },
+  "rihHVt": {
+    "defaultMessage": "Deactivate role"
+  },
+  "rqozW/": {
+    "defaultMessage": "Bin"
+  },
+  "rvirM2": {
+    "defaultMessage": "Location"
+  },
+  "rwaoq7": {
+    "defaultMessage": "Role with this name is already processed"
+  },
+  "s16OkW": {
+    "defaultMessage": "Search was successfully edited"
+  },
+  "s8Cv5g": {
+    "defaultMessage": "Send notifications about:"
+  },
+  "s8s39T": {
+    "defaultMessage": "Edit user"
+  },
+  "sDZlWw": {
+    "defaultMessage": "Create outbound shipment search"
+  },
+  "sKlq1s": {
+    "defaultMessage": "Outbound shipment type"
+  },
+  "sLUrf0": {
+    "defaultMessage": "Health and Beauty"
+  },
+  "si71za": {
+    "defaultMessage": "List payment methods"
+  },
+  "sm09ux": {
+    "defaultMessage": "Delete shipment"
+  },
+  "sutHgO": {
+    "defaultMessage": "Are you sure you want to submit the outbound shipment {shipmentNumber}?"
+  },
+  "sy+pv5": {
+    "defaultMessage": "Email"
+  },
+  "t+xQs2": {
+    "defaultMessage": "Consolidated"
+  },
+  "t6rZDW": {
+    "defaultMessage": "Container"
+  },
+  "tKyqR5": {
+    "defaultMessage": "Save search"
+  },
+  "tMcrZm": {
+    "defaultMessage": "Delete address book search"
+  },
+  "tN3DGK": {
+    "defaultMessage": "Delete user search"
+  },
+  "tP3Nzy": {
+    "defaultMessage": "We combine your products into a single shipment."
+  },
+  "tPCm/v": {
+    "defaultMessage": "Lot dimensions"
+  },
+  "tQYvxO": {
+    "defaultMessage": "Are you sure you want to mark notification as unread?"
+  },
+  "tS44O0": {
+    "defaultMessage": "List address book"
+  },
+  "tTssGr": {
+    "defaultMessage": "List shipment item search"
+  },
+  "taOOmb": {
+    "defaultMessage": "Edit outbound shipment search"
+  },
+  "teLZyZ": {
+    "defaultMessage": "Height"
+  },
+  "tf+yHL": {
+    "defaultMessage": "Fast"
+  },
+  "tlTERc": {
+    "defaultMessage": "Box"
+  },
+  "txUL0F": {
+    "defaultMessage": "Last name"
+  },
+  "tzMNF3": {
+    "defaultMessage": "Status"
+  },
+  "u3IKxS": {
+    "defaultMessage": "Unlimited number of lots"
+  },
+  "u5o6Af": {
+    "defaultMessage": "List role search"
+  },
+  "uCUumv": {
+    "defaultMessage": "Assign ahipment"
+  },
+  "uCsywK": {
+    "defaultMessage": "Accuracy"
+  },
+  "uRubAl": {
+    "defaultMessage": "dag."
+  },
+  "uTnptM": {
+    "defaultMessage": "Outbound type"
+  },
+  "uU2Xfj": {
+    "defaultMessage": "Something went wrong...Please try again or contact administrator"
+  },
+  "uX5pHV": {
+    "defaultMessage": "EH container"
+  },
+  "uZ9hMv": {
+    "defaultMessage": "hm."
+  },
+  "uzep9P": {
+    "defaultMessage": "We’ll send you temporary password from your newly created account."
+  },
+  "v0xaYB": {
+    "defaultMessage": "Add address"
+  },
+  "v2qyjO": {
+    "defaultMessage": "Restrictions on the size, weight and declared value of the package"
+  },
+  "vBCJu8": {
+    "defaultMessage": "Cancel shipment"
+  },
+  "vLAPJD": {
+    "defaultMessage": "Mark as unread"
+  },
+  "vONi+O": {
+    "defaultMessage": "Country"
+  },
+  "vlznhT": {
+    "defaultMessage": "Service level name"
+  },
+  "voDuoi": {
+    "defaultMessage": "Assign lot"
+  },
+  "vpP6E7": {
+    "defaultMessage": "Edit inbound shipment search"
+  },
+  "vtStU2": {
+    "defaultMessage": "Payment history"
+  },
+  "vx0nkZ": {
+    "defaultMessage": "Privacy Policy"
+  },
+  "w1Fanr": {
+    "defaultMessage": "Business"
+  },
+  "w7NAmV": {
+    "defaultMessage": "Create role"
+  },
+  "wEQDC6": {
+    "defaultMessage": "Edit"
+  },
+  "wJG/xZ": {
+    "defaultMessage": "Existing shipments"
+  },
+  "wQkXdT": {
+    "defaultMessage": "Loose"
+  },
+  "wTijQF": {
+    "defaultMessage": "Pounds/Inches"
+  },
+  "wm96Jx": {
+    "defaultMessage": "Returned"
+  },
+  "woavV4": {
+    "defaultMessage": "Outbound shipment #"
+  },
+  "wyRVcv": {
+    "defaultMessage": "Page:"
+  },
+  "x8DZbW": {
+    "defaultMessage": "Label file"
+  },
+  "x8tKb8": {
+    "defaultMessage": "Search has been saved successfully!"
+  },
+  "xLmn87": {
+    "defaultMessage": "Search was successfully deleted"
+  },
+  "xO/Xc0": {
+    "defaultMessage": "Are you sure you want to deactivate {businessName}?"
+  },
+  "xP64Lw": {
+    "defaultMessage": "Address Book"
+  },
+  "xT2xuY": {
+    "defaultMessage": "Shipment type inbound shipment"
+  },
+  "xXbJso": {
+    "defaultMessage": "Sign out"
+  },
+  "xZrk75": {
+    "defaultMessage": "Credit card number"
+  },
+  "xaj9Ba": {
+    "defaultMessage": "Provider"
+  },
+  "xmcVZ0": {
+    "defaultMessage": "Search"
+  },
+  "xrKHS6": {
+    "defaultMessage": "Success"
+  },
+  "y2PR7x": {
+    "defaultMessage": "KG/Centimeters"
+  },
+  "y4LGq0": {
+    "defaultMessage": "Create notification search"
+  },
+  "y6C8VE": {
+    "defaultMessage": "Default type:"
+  },
+  "y867Vs": {
+    "defaultMessage": "Volume"
+  },
+  "yDqOJI": {
+    "defaultMessage": "Outbound shippings settings"
+  },
+  "yNmV/R": {
+    "defaultMessage": "Items"
+  },
+  "yTrowV": {
+    "defaultMessage": "Got it!"
+  },
+  "yX77Sr": {
+    "defaultMessage": "Add to address book"
+  },
+  "yYfvBR": {
+    "defaultMessage": "Address is valid"
+  },
+  "ybpoeQ": {
+    "defaultMessage": "Duis adipisicing eiusmod sit reprehenderit. Commodo sint ad fugiat do proident laboris commodo fugiat anim culpa id adipisicing. Fugiat nostrud duis id deserunt laborum dolor deserunt. Non non fugiat laboris mollit. Velit aliqua nisi anim cillum ipsum incididunt nulla cillum aliqua. Voluptate laboris proident ullamco do ad esse cupidatat enim elit pariatur ea. Excepteur ut aute esse labore elit in irure veniam nostrud ex eu qui do dolor."
+  },
+  "yk4PT9": {
+    "defaultMessage": "Full name"
+  },
+  "ypiuWB": {
+    "defaultMessage": "Delete notification search"
+  },
+  "yslhj5": {
+    "defaultMessage": "Recipient name"
+  },
+  "ytYd6O": {
+    "defaultMessage": "Show business details"
+  },
+  "yxV0gr": {
+    "defaultMessage": "Inbound shipment #"
+  },
+  "z+Zrln": {
+    "defaultMessage": "Set as default"
+  },
+  "z054+g": {
+    "defaultMessage": "Are you sure you want to cancel the outbound shipment {shipmentNumber}?"
+  },
+  "zCb8fX": {
+    "defaultMessage": "Weight"
+  },
+  "zE/fLt": {
+    "defaultMessage": "g."
+  },
+  "zEfDh/": {
+    "defaultMessage": "Are you sure you want to delete {name} search?"
+  },
+  "zGsCGV": {
+    "defaultMessage": "Delivery Days"
+  },
+  "zf8L0f": {
+    "defaultMessage": "dg."
+  },
+  "zoGKVQ": {
+    "defaultMessage": "Extra services were not selected"
+  },
+  "zr34jC": {
+    "defaultMessage": "Rights to services"
+  },
+  "zswmai": {
+    "defaultMessage": "Save payment date"
+  }
+}
